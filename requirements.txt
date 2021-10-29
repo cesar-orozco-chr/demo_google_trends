@@ -1,0 +1,2 @@
+snowflake-connector-python[pandas]==2.6.2
+pytrends==4.7.3
